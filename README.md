@@ -1,2 +1,2 @@
 # wechat
-仿微信即时聊天
+Node+Express+Vue+MongoDB 模仿微信项目
